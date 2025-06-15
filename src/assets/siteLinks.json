@@ -10,6 +10,11 @@
     "link": "https://pan.imsyy.top/"
   },
   {
+    "icon": "Play",
+    "name": "影视站",
+    "link": "https://libretv.284628.xyz/"
+  },
+  {
     "icon": "Images",
     "name": "每日一图",
     "link": "https://bing.284628.xyz/"
@@ -20,18 +25,13 @@
     "link": "https://mail.284628.xyz/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "Link",
+    "name": "短链生成",
+    "link": "https://d.284628.xyz/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://uptime.284628.xyz/"
   }
 ]
