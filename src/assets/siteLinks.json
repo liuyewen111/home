@@ -15,7 +15,7 @@
     "link": "https://libretv.284628.xyz/"
   },
   {
-    "icon": "Sms",
+    "icon": "Comments",
     "name": "聊天室",
     "link": "https://msg.284628.xyz/?r=UZove.ZftRh9y.lElxZnthZxsD%40%40&p=fngxfqQl%5DW%5Dy%5C5grfXr%7B"
   },
@@ -25,7 +25,7 @@
     "link": "https://bing.284628.xyz/"
   },
   {
-    "icon": "MailBulk",
+    "icon": "Envelope",
     "name": "临时邮箱",
     "link": "https://mail.284628.xyz/"
   },
@@ -38,5 +38,10 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://uptime.284628.xyz/"
+  }
+  {
+    "icon": "Markdown",
+    "name": "MD编辑",
+    "link": "https://copy.284628.xyz/"
   }
 ]
